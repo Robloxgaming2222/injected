@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
 Title = "Ro-lol injeced",
 Text = "Ro-lol has injected",
-Duration = 1,
+Duration = 5,
 })
